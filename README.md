@@ -8,4 +8,5 @@
 6. [짝수문자열로 한줄 출력](./Exercise/EvenNumString.js) 17.07.31(과제)
 7. [While을 이용한 짝수](./Exercise/WhileEvenNum.js) 17.07.31(과제)
 8. [While을 이용한 역순의 홀수](./Exercise/WhileOddNumRev.js) 17.07.31(과제)
-9. [정삼각형 만들기](./Exercise/Pyramid.js) 17.07.31(과제)
+9. [정삼각형 만들기](./Exercise/Pyramid.js) 17.08.01(과제)
+10. [역정삼각형 만들기](./Exercise/RevPyramid.js) 17.08.01(과제)
