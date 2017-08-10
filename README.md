@@ -11,4 +11,5 @@
 9. [정삼각형 만들기](./Exercise/Pyramid.js) 17.08.01(과제)
 10. [역정삼각형 만들기](./Exercise/RevPyramid.js) 17.08.01(과제)
 11. [초단위로 반복 출력](./Exercise/secondStack.js) 17.08.09(과제)
-12. [두 수 비교 후 큰숫자 출력](./Exercise/compareNumber.js) 17.08.10(과제)
+12. [두 수 비교 후 큰 숫자 출력](./Exercise/compareNumber.js) 17.08.10(과제)
+13. [배열에 입력된 숫자들의 평균 출력](./Exercise/arrayAverage.js) 17.08.10(과제)
