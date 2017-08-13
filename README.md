@@ -14,3 +14,4 @@
 12. [두 수 비교 후 큰 숫자 출력](./Exercise/compareNumber.js) 17.08.10(과제)
 13. [배열에 입력된 숫자들의 평균 출력](./Exercise/arrayAverage.js) 17.08.10(과제)
 14. [배열에 입력된 문자를 더해 String으로 출력](./Exercise/arrStrSumStr.js) 17.08.10(과제)
+15. [입력된 숫자를 요일로 출력](./Exercise/returnDay.js) 17.08.10(과제)
