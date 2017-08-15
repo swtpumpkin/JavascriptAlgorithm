@@ -19,5 +19,5 @@
 17. [배열의 3개 숫자중 가장 큰 숫자 출력](./Exercise/threeMaxNum.js) 17.08.10(과제)
 18. [문자열을 역으로 출력](./Exercise/reverseStr.js) 17.08.10(과제)
 19. [문자열을 역으로 출력(Built-in-Object사용)](./Exercise/reverseStrBuiltInObj.js) 17.08.10(과제)
-20. [Check Palindrom(문자열1개는 false 반환)](./Exercise/palindrome.js) 17.08.14(과제)
-21. [최단 거리 1차원 배열의 쌍 구하기](./Exercise/findMinDistance.js) 17.08.14(과제)
+20. [Check Palindrom(문자열1개는 false 반환)](./Exercise/palindrome.js) 17.08.14(퀴즈)
+21. [최단 거리 1차원 배열의 쌍 구하기](./Exercise/findMinDistance.js) 17.08.14(퀴즈)
