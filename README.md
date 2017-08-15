@@ -16,3 +16,4 @@
 14. [배열에 입력된 문자를 더해 String으로 출력](./Exercise/arrStrSumStr.js) 17.08.10(과제)
 15. [입력된 숫자를 요일로 출력](./Exercise/returnDay.js) 17.08.10(과제)
 16. [함수를 이용한 짝수 홀수 구분](./Exercise/EvenOrOddFunc.js) 17.08.13(개인 연습)
+17. [배열의 3개 숫자중 가장 큰 숫자 출력](./Exercise/threeMaxNum.js) 17.08.10(과제)
