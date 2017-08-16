@@ -22,3 +22,6 @@
 20. [Check Palindrom(문자열1개는 false 반환)](./Exercise/palindrome.js) 17.08.14(퀴즈)
 21. [최단 거리 1차원 배열의 쌍 구하기](./Exercise/findMinDistance.js) 17.08.14(퀴즈)
 22. [1부터 10,000까지 8의 개수 구하기](./Exercise/searchEight.js) 17.08.16(퀴즈)
+23. [3항연산자를 이용한 짝수 홀수 구분](./Exercise/evenOrOdd3.js) 17.08.16(퀴즈)
+24. [if문을 이용한 짝수 홀수 구분](./Exercise/evenOrOddIf.js) 17.08.16(퀴즈)
+
