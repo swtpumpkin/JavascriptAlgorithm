@@ -1,4 +1,5 @@
 //최단 거리 1차원 점의 쌍 구하기 (DAUM)
+//이 함수의 경우 의도한 바와 다르게 차이가 1만 찾아 낼 수 있기때문에 다른 거리의 배열은 찾을 수 없다. 따라서 오답이다.
 function findMinDistance(array){
   //반환할 배열의 빈 문자열 생성
   var arr = [];
@@ -15,4 +16,4 @@ function findMinDistance(array){
 }
 // 1차원 점의 배열
 var array = [1, 3, 4, 8, 13, 17, 20, 23, 24];
-console.log(findMinDistance(array)); // [[3, 4], [23, 24]]
+console.log(findMinDistance(array)); // [[3, 4], [23, 24]]                            
