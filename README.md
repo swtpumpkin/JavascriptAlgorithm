@@ -29,3 +29,4 @@
 27. [입력받은 길이만큼 수,박을 반복하여 반환](./Exercise/waterMelon.js) 17.08.18(과제)
 28. [숫자로 된 문자열을 숫자로 변환](./Exercise/strToInt.js) 17.08.18(과제)
 29. [정수제곱근 판별하기](./Exercise/nextSqaure.js) 17.08.18(과제)
+30. [핸드폰 번호 가리기](./Exercise/hiddenNumber.js) 17.08.18(과제)
