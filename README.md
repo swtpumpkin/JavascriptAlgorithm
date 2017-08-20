@@ -27,3 +27,4 @@
 25. [if문을 이용한 짝수 홀수 구분](./Exercise/evenOrOddIf.js) 17.08.16(과제)
 26. [문자열 중4~6자리의 숫자만인지 확인](./Exercise/alphaString46.js) 17.08.16(과제)
 27. [입력받은 길이만큼 수,박을 반복하여 반환](./Exercise/waterMelon.js) 17.08.18(과제)
+28. [숫자로 된 문자열을 숫자로 변환](./Exercise/strToInt.js) 17.08.18(과제)
