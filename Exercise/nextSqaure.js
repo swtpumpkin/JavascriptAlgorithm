@@ -5,13 +5,13 @@ n이 임의의 정수 x의 제곱이라면 x+1의 제곱을 리턴하고, n이 �
 */
 function nextSqaure(n){
   //Number.isInteger()함수로 루트n을 계산했을때 정수인지 실수인지 확인한다.
-    if(Number.isInteger(Math.sqrt(n))){
-      //정수가 맞으면 루트n+1을 제곱하여 반환한다.
-      return (Math.pow(Math.sqrt(n)+1,2));
-    }
-    //정수가 아니면 no로 반환한다.
-    return 'no';
+  if(Number.isInteger(Math.sqrt(n))){
+    //정수가 맞으면 루트n+1을 제곱하여 반환한다.
+    return (Math.pow(Math.sqrt(n)+1,2));
   }
-  
-  console.log(nextSqaure(3));   // no
-  console.log(nextSqaure(121)); // 144
+  //정수가 아니면 no로 반환한다.
+  return 'no';
+}
+
+console.log(nextSqaure(3));   // no
+console.log(nextSqaure(121)); // 144
