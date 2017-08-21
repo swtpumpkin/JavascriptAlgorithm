@@ -31,3 +31,4 @@
 29. [정수제곱근 판별하기](./Exercise/nextSqaure.js) 17.08.18(과제)
 30. [핸드폰 번호 가리기](./Exercise/hiddenNumber.js) 17.08.18(과제)
 31. [문자의 홀수는 대문자로 변환하기](./Exercise/strangeString.js) 17.08.18(과제)
+32. [약수들의 합](./Exercise/sumDivisor.js) 17.08.21(과제)
