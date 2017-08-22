@@ -34,3 +34,4 @@
 32. [약수들의 합](./Exercise/sumDivisor.js) 17.08.21(과제)
 33. [배열 중 가장 큰 숫자](./Exercise/arrMaxValue.js) 17.08.21(과제)
 34. [배열 중 가장 작은 숫자](./Exercise/arrMinValue.js) 17.08.21(과제)
+35. [소수의 개수 세기](./Exercise/numberOfPrime.js) 17.08.22(과제)
