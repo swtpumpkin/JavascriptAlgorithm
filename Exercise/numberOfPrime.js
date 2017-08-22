@@ -10,16 +10,16 @@ function numberOfPrime(n) {
   //1부터 찾을 숫자까지 순회하는 for문을 선언한다.
   for(var num = 1; num<=n; num++){
     //어떠한 수를 나눴을 때 0이되는 수를 카운트 할 변수를 선언한다.
-    var count = 0;
+    var divCount = 0;
     //1부터 어떠한 수까지 나누어 볼 for문을 만든다.
-    for(var innerNum = 1; innerNum<=num; innerNum++){
+    for(var divNum = 1; divNum<=num; divNum++){
       //자기 자신으로 나눈 숫자가 0인 함수를 카운트 한다.
-      if(num%innerNum===0){
-        count +=1;
+      if(num%divNum===0){
+        divCount +=1;
       }
     }
     //1과 자기자신만 나눠서 0이 나온 수는 소수이므로 소수를 카운트한다.
-    if(count === 2){
+    if(divCount === 2){
       primeCount +=1;
     }
   }
