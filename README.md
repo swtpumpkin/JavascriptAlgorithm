@@ -38,4 +38,5 @@
 36. [하샤드 수](./Exercise/isHarshad.js) 17.08.22(과제)
 37. [두 정수 사이의 합](./Exercise/adder.js) 17.08.22(과제)
 38. [피보나치의 마지막 숫자 반환](./Exercise/fibonacci.js) 17.08.22(과제)
-39. [10001번째의 소수 찾기](./Exercise/fibonacci.js) 17.08.23(개인 연습)
+39. [10001번째의 소수 찾기](./Exercise/10001PrimeNum.js) 17.08.23(개인 연습)
+40. [배열의 인접한 요소곱 중 가장 큰 값 구하기](./Exercise/adjacentElementsProduct.js) 17.08.23(과제)
