@@ -41,3 +41,4 @@
 39. [10001번째의 소수 찾기](./Exercise/10001PrimeNum.js) 17.08.23(개인 연습)
 40. [배열의 인접한 요소곱 중 가장 큰 값 구하기](./Exercise/adjacentElementsProduct.js) 17.08.23(과제)
 41. [3보다 큰 짝수를 배열로 출력](./Exercise/getArray.js) 17.08.23(과제)
+42. [합의 제곱에서 제곱의 합을 반환](./Exercise/sumSquare.js) 17.08.24(개인 연습)
