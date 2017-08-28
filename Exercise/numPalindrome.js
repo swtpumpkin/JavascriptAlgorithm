@@ -19,4 +19,4 @@ for(var num = 100; num<1000; num++){
   }
 }
 // 대칭인 수의 최대값을 출력한다.
-console.log(maxNum);
+console.log(maxNum); //906609
