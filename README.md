@@ -44,3 +44,4 @@
 42. [합의 제곱에서 제곱의 합을 출력](./Exercise/sumSquare.js) 17.08.24(개인 연습)
 43. [1부터20까지 나눌 수 있는 가장 작은수를 출력](./Exercise/oneToTwenty.js) 17.08.24(개인 연습)
 44. [세자리 곱의 수 중 대칭인 가장 큰 수 출력](./Exercise/numPalindrome.js) 17.08.28(개인 연습)
+45. [콜라츠 추측](./Exercise/collatz.js) 17.08.31(개인 연습)
