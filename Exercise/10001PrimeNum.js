@@ -1,28 +1,28 @@
 //10001번째 소수 구하기
 function numberOfPrime(n) {
-  //소수가 출력 될 때마다의 개수를 세는 변수를 선언한다.
-  var countPrime = 0;
-  //1부터 javascript가 출력 할 수 있는 가장 큰 수를 출력한다.
-  for(var num = 1; num < Number.MAX_VALUE; num++){
-    //소수를 찾기위한 변수를 선언한다.
-    var count = 0;
-    //1부터 자기 자신까지 돌 수 있는 for문을 선언한다.
-    for(var innerNum = 1; innerNum<=num; innerNum++){
-      //약수의 개수를 찾는 if문을 만든다.
-      if(num%innerNum===0){
-        //약수의 개수를 카운트한다.
-        count++;
+  var num = 2;
+  var priCnt = 0;
+  // 무한 루프 선언
+  while(num){
+    // 소수인지 아닌지 판별하는 boolean타입 선언
+    var priNum = true;
+    // 자기자신 전까지 나누어 떨어지는 숫자가 있다면 false를 반환하는 for문 선언
+    for(var divNum = 2; divNum < num; divNum++){
+      if(num%divNum === 0){
+        priNum = false;
+        break;
       }
     }
-    //약수의 개수가 2인 수는 소수이므로 소수의 개수를 찾는 if문을 만든다.
-    if(count === 2){
-      countPrime++;
+    // 자기 자신까지의 수까지 떨어지지 않는다면 소수이므로 소수의 개수를 count한다.
+    if(priNum){
+      priCnt++
     }
-    //countPrime이 입력받은 숫자가 됐을 때 수를 출력하고 break한다.
-    if(countPrime === n){
-      return num;
-      break;
+    // 입력된 숫자와 소수의 숫자가 같은지 확인 후 그 때의 소수를 출력한다.
+    if(priCnt === n){
+      return num
+      break
     }
+    num++
   }
 }
 console.log(numberOfPrime(10001)); // 104743
