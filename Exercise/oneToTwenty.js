@@ -6,7 +6,7 @@ while(true){
   num++
   var divided = true;
   //1부터 20까지 나눈 나머지가 0인 수를 찾는 for문을 선언한다.
-  for(var innerNum = 1; innerNum <= 20; innerNum++){
+  for(var innerNum = 20; innerNum > 0; innerNum-- ){
     // 나눈 수가 1개라도 0으로 나누어 떨어지지 않는다면 멈추게 한다.
     if(num%innerNum !== 0){
       divided = false;
