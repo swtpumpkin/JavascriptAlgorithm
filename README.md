@@ -47,3 +47,4 @@
 45. [콜라츠 추측](./Exercise/collatz.js) 17.08.31(개인 연습)
 46. [다음 큰 숫자](./Exercise/nextBigNumber.js) 17.09.01(개인 연습)
 47. [200만 이하의 소수 모두 더하기](./Exercise/twoMillionPrimeSum.js) 17.09.30(개인 연습)
+48. [서울에서김서방찾기](./Exercise/searchKim.js) 17.09.30(개인 연습)
