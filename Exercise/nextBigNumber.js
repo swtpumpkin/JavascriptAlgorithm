@@ -37,7 +37,6 @@ function nextBigNumber(n){
         break;
       }
     }
-  
     return answer;
   }
 }
