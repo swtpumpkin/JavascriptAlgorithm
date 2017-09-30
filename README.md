@@ -45,3 +45,5 @@
 43. [1부터20까지 나눌 수 있는 가장 작은수를 출력](./Exercise/oneToTwenty.js) 17.08.24(개인 연습)
 44. [세자리 곱의 수 중 대칭인 가장 큰 수 출력](./Exercise/numPalindrome.js) 17.08.28(개인 연습)
 45. [콜라츠 추측](./Exercise/collatz.js) 17.08.31(개인 연습)
+46. [다음 큰 숫자](./Exercise/nextBigNumber.js) 17.09.01(개인 연습)
+47. [200만 이하의 소수 모두 더하기](./Exercise/twoMillionPrimeSum.js) 17.09.30(개인 연습)
